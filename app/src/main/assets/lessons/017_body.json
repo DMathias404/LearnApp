@@ -1,0 +1,31 @@
+{
+  "name":"The Body I",
+  "lectureList":[
+    {"vocable": "ashi",
+      "meaning": "foot, leg"},
+    {"vocable": "te",
+      "meaning": "hand"},
+    {"vocable": "yubi",
+      "meaning": "finger, tow"},
+    {"vocable": "atama",
+      "meaning": "head"},
+    {"vocable": "kao",
+      "meaning": "face"},
+    {"vocable": "kushi",
+      "meaning": "mouth"},
+    {"vocable": "kuchibiru",
+      "meaning": "lips"},
+    {"vocable": "hana",
+      "meaning": "nose"},
+    {"vocable": "me",
+      "meaning": "eye"},
+    {"vocable": "ear",
+      "meaning": "mimi"},
+    {"vocable": "ude",
+      "meaning": "arm"},
+    {"vocable": "kubi",
+      "meaning": "neck"},
+    {"vocable": "mune",
+      "meaning": "chest"}
+  ]
+}

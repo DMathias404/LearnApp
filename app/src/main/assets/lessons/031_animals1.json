@@ -1,0 +1,29 @@
+{
+  "name":"Animals I",
+  "lectureList":[
+    {"vocable": "neko",
+      "meaning": "cat"},
+    {"vocable": "inu",
+      "meaning": "dog"},
+    {"vocable": "sakana",
+      "meaning": "fish"},
+    {"vocable": "uma",
+      "meaning": "horse"},
+    {"vocable": "saru",
+      "meaning": "monkey"},
+    {"vocable": "nezumi",
+      "meaning": "mouse, rat"},
+    {"vocable": "usagi",
+      "meaning": "rabbit"},
+    {"vocable": "tori",
+      "meaning": "bird"},
+    {"vocable": "buta",
+      "meaning": "pig"},
+    {"vocable": "yagi",
+      "meaning": "goat"},
+    {"vocable": "ushi",
+      "meaning": "cow"},
+    {"vocable": "kumo",
+      "meaning": "spider"}
+  ]
+}

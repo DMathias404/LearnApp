@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Earn Points",
+    "description": "Earn 3000 or more points in one game",
+    "type": 0,
+    "requirement": 3000,
+    "process": 0,
+    "reward": 100,
+    "completed": false
+  },
+  {
+    "id": 2,
+    "name": "Earn lots of Points",
+    "description": "Earn 4500 or more points in one game",
+    "type": 0,
+    "requirement": 4500,
+    "process": 0,
+    "reward": 150,
+    "completed": false
+  },
+  {
+    "id": 101,
+    "name": "Good Rating",
+    "description": "Have a correct rating of at least 80% in a game",
+    "type": 1,
+    "requirement": 80,
+    "process": 0,
+    "reward": 200,
+    "completed": false
+  },
+  {
+    "id": 102,
+    "name": "Perfect Rating",
+    "description": "Have all answers correct in a game",
+    "type": 1,
+    "requirement": 100,
+    "process": 0,
+    "reward": 300,
+    "completed": false
+  },
+  {
+    "id": 201,
+    "name": "Gather Points",
+    "description": "Gather 8000 points",
+    "type": 2,
+    "requirement": 8000,
+    "process": 0,
+    "reward": 150,
+    "completed": false
+  },
+  {
+    "id": 202,
+    "name": "Gather more Points",
+    "description": "Gather 11000 points",
+    "type": 2,
+    "requirement": 11000,
+    "process": 0,
+    "reward": 200,
+    "completed": false
+  },
+  {
+    "id": 203,
+    "name": "Gather even more Points",
+    "description": "Gather 14000 points",
+    "type": 2,
+    "requirement": 14000,
+    "process": 0,
+    "reward": 250,
+    "completed": false
+  },
+  {
+    "id": 301,
+    "name": "Quizzer",
+    "description": "Play the Quiz mode 3 times",
+    "type": 3,
+    "requirement": 3,
+    "process": 0,
+    "reward": 150,
+    "completed": false
+  },
+  {
+    "id": 401,
+    "name": "Revisit",
+    "description": "Play a lecture you already completed before",
+    "type": 4,
+    "requirement": 1,
+    "process": 0,
+    "reward": 100,
+    "completed": false
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name":"Occupations",
+  "lectureList":[
+    {"vocable": "isha",
+      "meaning": "doctor"},
+    {"vocable": "shouboushi",
+      "meaning": "firefighter"},
+    {"vocable": "keisatsukan",
+      "meaning": "police officer"},
+    {"vocable": "sensei",
+      "meaning": "teacher"},
+    {"vocable": "kyoushi",
+      "meaning": "(academic) teacher"},
+    {"vocable": "heishi",
+      "meaning": "soldier"},
+    {"vocable": "seijika",
+      "meaning": "politician"},
+    {"vocable": "bengoshi",
+      "meaning": "lawyer"},
+    {"vocable": "kashu",
+      "meaning": "singer"},
+    {"vocable": "kenchikuka",
+      "meaning": "architect"},
+    {"vocable": "shikai",
+      "meaning": "dentist"},
+    {"vocable": "enjinia",
+      "meaning": "engineer"},
+    {"vocable": "kangoshi",
+      "meaning": "nurse"}
+  ]
+}

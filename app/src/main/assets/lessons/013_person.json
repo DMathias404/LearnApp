@@ -1,0 +1,29 @@
+{
+  "name":"Person",
+  "lectureList":[
+    {"vocable": "watashi",
+      "meaning": "I, me, myself (formal)"},
+    {"vocable": "watakushi",
+      "meaning": "I, me, myself (most formal)"},
+    {"vocable": "boku",
+      "meaning": "I, me, myself (used by males)"},
+    {"vocable": "ore",
+      "meaning": "I, me, myself (used by males, informal)"},
+    {"vocable": "atashi",
+      "meaning": "I, me, myself (used by females)"},
+    {"vocable": "kare",
+      "meaning": "he, him"},
+    {"vocable": "kanojo",
+      "meaning": "she, her"},
+    {"vocable": "anata",
+      "meaning": "you"},
+    {"vocable": "anta",
+      "meaning": "you (informal)"},
+    {"vocable": "ano hito",
+      "meaning": "that person / they (singular)"},
+    {"vocable": "wareware",
+      "meaning": "we"},
+    {"vocable": "-tachi",
+      "meaning": "pluralising Suffix"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name":"Nature",
+  "lectureList":[
+    {"vocable": "kusa",
+      "meaning": "grass"},
+    {"vocable": "hana",
+      "meaning": "flower"},
+    {"vocable": "ki",
+      "meaning": "tree"},
+    {"vocable": "kawa",
+      "meaning": "river"},
+    {"vocable": "yama",
+      "meaning": "mountain"},
+    {"vocable": "nagisa",
+      "meaning": "shore"},
+    {"vocable": "bichi",
+      "meaning": "beach"},
+    {"vocable": "umi",
+      "meaning": "ocean"},
+    {"vocable": "mori",
+      "meaning": "forest, woods"}
+  ]
+}

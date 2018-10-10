@@ -1,0 +1,17 @@
+{
+  "name":"Adressing Family",
+  "lectureList":[
+    {"vocable": "otou-san",
+      "meaning": "dad"},
+    {"vocable": "okaa-san",
+      "meaning": "mom"},
+    {"vocable": "oni-san",
+      "meaning": "big brother"},
+    {"vocable": "one-san",
+      "meaning": "big sister"},
+    {"vocable": "ojii-san",
+      "meaning": "grandpa"},
+    {"vocable": "oba-san",
+      "meaning": "grandma"}
+  ]
+}

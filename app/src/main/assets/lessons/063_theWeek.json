@@ -1,0 +1,29 @@
+{
+  "name":"The Week",
+  "lectureList":[
+    {"vocable": "hi",
+      "meaning": "day"},
+    {"vocable": "shuukan",
+      "meaning": "week"},
+    {"vocable": "heijitsu",
+      "meaning": "weekday"},
+    {"vocable": "shuumatsu",
+      "meaning": "weekend"},
+    {"vocable": "youbi",
+      "meaning": "day of the week"},
+    {"vocable": "nichiyoubi",
+      "meaning": "sunday"},
+    {"vocable": "getsuyoubi",
+      "meaning": "monday"},
+    {"vocable": "kayoubi",
+      "meaning": "tuesday"},
+    {"vocable": "suiyoubi",
+      "meaning": "wednesday"},
+    {"vocable": "mokuyoubi",
+      "meaning": "thursday"},
+    {"vocable": "kinyoubi",
+      "meaning": "friday"},
+    {"vocable": "doyoubi",
+      "meaning": "saturday"}
+  ]
+}

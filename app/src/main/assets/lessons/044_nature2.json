@@ -1,0 +1,29 @@
+{
+  "name":"Nature (Sky)",
+  "lectureList":[
+    {"vocable": "sora",
+      "meaning": "sky"},
+    {"vocable": "taiyou",
+      "meaning": "sun"},
+    {"vocable": "tsuki",
+      "meaning": "moon"},
+    {"vocable": "hoshi",
+      "meaning": "star"},
+    {"vocable": "kumo",
+      "meaning": "cloud"},
+    {"vocable": "nagareboshi",
+      "meaning": "shooting star"},
+    {"vocable": "niji",
+      "meaning": "rainbow"},
+    {"vocable": "kaze",
+      "meaning": "wind"},
+    {"vocable": "ame",
+      "meaning": "rain"},
+    {"vocable": "yuki",
+      "meaning": "snow"},
+    {"vocable": "arashi",
+      "meaning": "storm"},
+    {"vocable": "kaminari",
+      "meaning": "thunder, lightning"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name":"Colors",
+  "lectureList":[
+    {"vocable": "aka",
+      "meaning": "red"},
+    {"vocable": "ao",
+      "meaning":  "blue"},
+    {"vocable": "midori",
+      "meaning":  "green"},
+    {"vocable": "kiiro",
+      "meaning":  "yellow"},
+    {"vocable": "chairo",
+      "meaning":  "brown"},
+    {"vocable": "kuro",
+      "meaning":  "black"},
+    {"vocable": "shiro",
+      "meaning":  "white"},
+    {"vocable": "haiiro",
+      "meaning":  "grey"},
+    {"vocable": "murasaki",
+      "meaning":  "purple"},
+    {"vocable": "orenji",
+      "meaning":  "orange"},
+    {"vocable": "momoiro",
+      "meaning":  "pink"}
+  ]
+}

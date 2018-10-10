@@ -1,0 +1,29 @@
+{
+  "name":"People",
+  "lectureList":[
+    {"vocable": "ningen",
+      "meaning": "human"},
+    {"vocable": "hito",
+      "meaning": "person"},
+    {"vocable": "otoko",
+      "meaning": "male"},
+    {"vocable": "otokonohito",
+      "meaning": "man"},
+    {"vocable": "otokonoko",
+      "meaning": "boy"},
+    {"vocable": "onna",
+      "meaning": "female"},
+    {"vocable": "onnanohito",
+      "meaning": "woman"},
+    {"vocable": "onnanoko",
+      "meaning": "girl"},
+    {"vocable": "akachan",
+      "meaning": "baby"},
+    {"vocable": "kodomo",
+      "meaning": "child"},
+    {"vocable": "shounen",
+      "meaning": "young man"},
+    {"vocable": "shoujo",
+      "meaning": "young woman"}
+  ]
+}

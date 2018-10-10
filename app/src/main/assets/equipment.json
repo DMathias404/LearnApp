@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Basic",
+    "description": "basic item with default settings.",
+    "effects": {
+      "basicPoints": 300,
+      "pointsMultiplier": 1.1,
+      "timeCounter": 10,
+      "answerMult": 1,
+      "timeMult": 1
+    }
+  },
+  {
+    "name": "Extra Time",
+    "description": "More time per Question.",
+    "effects": {
+      "basicPoints": 300,
+      "pointsMultiplier": 1.1,
+      "timeCounter": 14,
+      "answerMult": 1,
+      "timeMult": 1
+    }
+  },
+  {
+    "name": "Precision points",
+    "description": "Get more points for each correct answer.",
+    "effects": {
+      "basicPoints": 300,
+      "pointsMultiplier": 1.1,
+      "timeCounter": 10,
+      "answerMult": 1.3,
+      "timeMult": 1
+    }
+  },
+  {
+    "name": "Speedster",
+    "description": "Get more points for answering fast.",
+    "effects": {
+      "basicPoints": 300,
+      "pointsMultiplier": 1.1,
+      "timeCounter": 10,
+      "answerMult": 1,
+      "timeMult": 1.5
+    }
+  },
+  {
+    "name": "Extra points",
+    "description": "Get more points in general.",
+    "effects": {
+      "basicPoints": 370,
+      "pointsMultiplier": 1.2,
+      "timeCounter": 10,
+      "answerMult": 1,
+      "timeMult": 1
+    }
+  }
+]

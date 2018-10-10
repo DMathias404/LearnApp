@@ -1,0 +1,29 @@
+{
+  "name":"Animals II",
+  "lectureList":[
+    {"vocable": "tora",
+      "meaning": "tiger"},
+    {"vocable": "ookami",
+      "meaning": "wolf"},
+    {"vocable": "raion",
+      "meaning": "lion"},
+    {"vocable": "kuma",
+      "meaning": "bear"},
+    {"vocable": "kitsune",
+      "meaning": "fox"},
+    {"vocable": "hebi",
+      "meaning": "snake"},
+    {"vocable": "same",
+      "meaning": "shark"},
+    {"vocable": "kirin",
+      "meaning": "giraffe"},
+    {"vocable": "zou",
+      "meaning": "elephant"},
+    {"vocable": "ika",
+      "meaning": "squid"},
+    {"vocable": "tako",
+      "meaning": "octopus"},
+    {"vocable": "mushi",
+      "meaning": "insect"}
+  ]
+}

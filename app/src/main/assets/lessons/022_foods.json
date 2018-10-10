@@ -1,0 +1,29 @@
+{
+  "name":"Foods & Drinks",
+  "lectureList":[
+    {"vocable": "ringo",
+      "meaning": "apple"},
+    {"vocable": "banana",
+      "meaning": "banana"},
+    {"vocable": "mikan",
+      "meaning": "mandarin orange"},
+    {"vocable": "tamago",
+      "meaning": "egg"},
+    {"vocable": "pan",
+      "meaning": "bread"},
+    {"vocable": "gohan",
+      "meaning": "rice"},
+    {"vocable": "gyuunyuu",
+      "meaning": "milk"},
+    {"vocable": "koohii",
+      "meaning": "coffee"},
+    {"vocable": "ocha",
+      "meaning": "tea"},
+    {"vocable": "niku",
+      "meaning": "meat"},
+    {"vocable": "shio",
+      "meaning": "salt"},
+    {"vocable": "satoo",
+      "meaning": "sugar"}
+  ]
+}

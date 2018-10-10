@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40403f</color>
+    <color name="colorPrimaryDark">#30302f</color>
+    <color name="colorAccent">#c2af5b</color>
+    <color name="colorBackground">#B7ADA9</color>
+
+    <color name="colorText">#30302f</color>
+    <color name="colorTextOnDark">#c2af5b</color>
+
+    <color name="button_default">#30302f</color>
+    <color name="button_pressed">#84826B</color>
+    <color name="button_focused">#84826B</color>
+
+    <color name="answer_correct">#44AA44</color>
+    <color name="answer_wrong">#AA4444</color>
+    <color name="answerButtonDefault">#929292</color>
+    <color name="borderColor">#4286f4</color>
+    <color name="colorXPbar">#5799f4</color>
+
+    <!--
+    <color name="colorPrimary">#728231</color>
+    <color name="colorPrimaryDark">#3F471F</color>
+    <color name="colorAccent">#55b9c5</color>
+    <color name="colorBackground">#B7B595</color>
+
+    <color name="colorText">#2A2E3F</color>
+    <color name="colorTextOnDark">#8F945F</color>
+
+    <color name="button_default">#728231</color>
+    <color name="button_pressed">#8F945F</color>
+    <color name="button_focused">#8F945F</color>
+    -->
+
+</resources>
